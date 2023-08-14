@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+    border-radius: 0 !important;
+}
+table th{
+    padding: 30px 20px !important;
+    text-align: center;
+    font-size: 18px;
+}
+table td{
+    padding: 20px !important;
+    text-align: center;
+}
+tbody tr td:first-child{
+    font-weight: bold;
+}
+a span, button span{
+    font-size: 17px;
+    font-weight: bold;
+}
+button,a,input{
+    outline: none !important;
+    box-shadow: none !important;
+}
+input:focus{
+    border: 1px solid black !important;
+}
+
+
+
+
+
+
