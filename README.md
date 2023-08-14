@@ -13,5 +13,16 @@ Crud operations in Spring Boot
 - H2 Database
 + Bootstrap v5.3.1
 - Bootstrap Icons v1.10.5
-  
+
+## For Run
+ ```
+ mvn clean
+ mvn install
+ mvn spring-boot:run
+
+ then go to
+ http://localhost:8080
+ ```
+
+
 
