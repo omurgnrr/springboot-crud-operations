@@ -4,15 +4,15 @@ Crud operations in Spring Boot
 
 ## Used Technologies
 + JDK20
-- Maven 3.9.1
++ Maven 3.9.1
 + Spring Boot 3.1.2
-- Spring Web
++ Spring Web
 + Spring Data JPA
-- Thymeleaf
++ Thymeleaf
 + Validation
-- H2 Database
++ H2 Database
 + Bootstrap v5.3.1
-- Bootstrap Icons v1.10.5
++ Bootstrap Icons v1.10.5
 
 ## For Run
  ```
