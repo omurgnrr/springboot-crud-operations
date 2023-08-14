@@ -24,9 +24,11 @@ Crud operations in Spring Boot
  http://localhost:8080
  ```
 ## Products Page
-![alt text](./screenshots/addproduct-page.png)
+![products-page](./screenshots/products-page.png)
 ## Add Product Page
+![addproducts-page](./screenshots/addproduct-page.png)
 ## Edit Product Page
+![editproducts-page](./screenshots/editproduct-page.png)
 
 
 
