@@ -23,6 +23,10 @@ Crud operations in Spring Boot
  then go to
  http://localhost:8080
  ```
+## Products Page
+![alt text](./screenshots/addproduct-page.png)
+## Add Product Page
+## Edit Product Page
 
 
 
